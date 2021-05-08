@@ -1,0 +1,6 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSortedList.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSortedList.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSortedList.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.pdb

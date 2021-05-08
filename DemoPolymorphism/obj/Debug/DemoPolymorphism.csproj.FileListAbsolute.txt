@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\bin\Debug\DemoPolymorphism.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\bin\Debug\DemoPolymorphism.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\bin\Debug\DemoPolymorphism.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.pdb

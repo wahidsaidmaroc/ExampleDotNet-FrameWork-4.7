@@ -1,0 +1,6 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\bin\Debug\DemoMethod.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\bin\Debug\DemoMethod.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\bin\Debug\DemoMethod.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.pdb

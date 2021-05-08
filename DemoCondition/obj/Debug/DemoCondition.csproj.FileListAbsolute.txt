@@ -1,0 +1,6 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondition.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondition.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondition.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.pdb

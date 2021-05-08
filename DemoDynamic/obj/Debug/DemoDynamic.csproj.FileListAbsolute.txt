@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\bin\Debug\DemoDynamic.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\bin\Debug\DemoDynamic.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\bin\Debug\DemoDynamic.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.pdb

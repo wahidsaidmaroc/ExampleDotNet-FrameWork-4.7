@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\bin\Debug\DemoBoolean.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\bin\Debug\DemoBoolean.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\bin\Debug\DemoBoolean.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\obj\Debug\DemoBoolean.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\obj\Debug\DemoBoolean.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\obj\Debug\DemoBoolean.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoBoolean\obj\Debug\DemoBoolean.pdb

@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\bin\Debug\DemoArrays.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\bin\Debug\DemoArrays.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\bin\Debug\DemoArrays.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.pdb

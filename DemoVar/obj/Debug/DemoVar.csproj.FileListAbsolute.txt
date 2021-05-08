@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\bin\Debug\DemoVar.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\bin\Debug\DemoVar.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\bin\Debug\DemoVar.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.pdb

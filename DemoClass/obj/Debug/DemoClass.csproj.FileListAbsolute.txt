@@ -1,0 +1,10 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClass.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClass.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClass.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClassLibrary.dll
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClassLibrary.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.CopyComplete
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.pdb

@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\bin\Debug\DemoQueue.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\bin\Debug\DemoQueue.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\bin\Debug\DemoQueue.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\obj\Debug\DemoQueue.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\obj\Debug\DemoQueue.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\obj\Debug\DemoQueue.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoQueue\obj\Debug\DemoQueue.csprojAssemblyReference.cache

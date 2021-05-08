@@ -1,0 +1,14 @@
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\bin\Debug\DemoString.exe.config
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\bin\Debug\DemoString.exe
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\bin\Debug\DemoString.pdb
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\obj\Debug\DemoString.csprojAssemblyReference.cache
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\obj\Debug\DemoString.csproj.CoreCompileInputs.cache
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\obj\Debug\DemoString.exe
+C:\Users\SAIDWAHID\Desktop\Projet\DemoDotNet\DemoString\obj\Debug\DemoString.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\bin\Debug\DemoString.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\bin\Debug\DemoString.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\bin\Debug\DemoString.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.csprojAssemblyReference.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.pdb

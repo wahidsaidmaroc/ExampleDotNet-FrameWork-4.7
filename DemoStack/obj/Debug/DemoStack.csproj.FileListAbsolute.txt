@@ -1,0 +1,7 @@
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\bin\Debug\DemoStack.exe.config
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\bin\Debug\DemoStack.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\bin\Debug\DemoStack.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csproj.CoreCompileInputs.cache
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.exe
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.pdb
+C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csprojAssemblyReference.cache
