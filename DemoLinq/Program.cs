@@ -12,9 +12,9 @@ namespace DemoLinq
         static void Main(string[] args)
         {
             //EtudiantNote(17);
-            //EtudiantEntrevalle(14, 18);
+            EtudiantEntrevalle(14, 18);
             //GetInfo(2);
-            EtudiantGroupBy();
+            //EtudiantGroupBy();
 
             Console.ReadKey();
 
@@ -54,6 +54,8 @@ namespace DemoLinq
             {
                 Console.WriteLine(item.nom);
             }
+
+            var linqMethode = getList().Where(a => a.note == note).ToList();
         }
 
         static void EtudiantNoteNom(int note)
@@ -72,6 +74,7 @@ namespace DemoLinq
 
         static void EtudiantEntrevalle(int noteMin, int noteMax)
         {
+            
             //Linq syntax Query 
             var l1 = from l in getList()
                      where l.note > noteMin && l.note <noteMax
@@ -108,8 +111,6 @@ namespace DemoLinq
             Console.WriteLine(l.nom);
             Console.WriteLine(l.note);
             
-
-
 
         }
 
@@ -160,10 +161,16 @@ namespace DemoLinq
             mixList.Add("Said");
             mixList.Add(true);
             mixList.Add(12);
+            mixList.Add("Maroc");
+            mixList.Add(DateTime.Now);
 
-            var listeInt = from l in mixList.OfType<int>()
+            var listeInt = from l in mixList.OfType<string>()
                            select l;
 
+            foreach (var item in listeInt)
+            {
+                Console.WriteLine(item);
+            }
 
         }
 
@@ -179,6 +186,11 @@ namespace DemoLinq
                      orderby l.nom descending
                      select l;
 
+
+            foreach (var item in l1)
+            {
+                Console.WriteLine("Etudiant :  {0} - note : {1}",item.nom, item.note);
+            }
         }
 
         static void EtudiantGroupBy()
@@ -189,7 +201,7 @@ namespace DemoLinq
 
             foreach (var item in l1)
             {
-                Console.WriteLine("Etudiant de la ville : {0}", item .Key);
+                Console.WriteLine("Etudiant de la ville : {0}", item.Key);
                 foreach (Etudiant etudiant in item)
                 {
                     Console.WriteLine("Nom : {0}", etudiant.nom);
@@ -210,7 +222,7 @@ namespace DemoLinq
 
             foreach (var item in l1)
             {
-                Console.WriteLine(item.id);
+                Console.WriteLine("Etudiant : {1} - note : {0}",item.id, item.nom);
             }
 
         }
