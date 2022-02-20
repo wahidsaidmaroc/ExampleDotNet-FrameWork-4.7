@@ -4,3 +4,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStruct\bin\Debug\DemoStruct.pd
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\bin\Debug\DemoStruct.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\bin\Debug\DemoStruct.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\bin\Debug\DemoStruct.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStruct\obj\Debug\DemoStruct.pdb

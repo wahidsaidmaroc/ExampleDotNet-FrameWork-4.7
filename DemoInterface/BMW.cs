@@ -8,6 +8,21 @@ namespace DemoInterface
 {
     class BMW : IVoiture
     {
+        BMW()
+        {
+
+        }
+
+        BMW(int a)
+        { 
+        
+        }
+
+        BMW(int a)
+        {
+
+        }
+
         public void avrgSpeed()
         {
             throw new NotImplementedException();

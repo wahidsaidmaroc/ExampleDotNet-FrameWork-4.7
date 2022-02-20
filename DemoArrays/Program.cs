@@ -14,13 +14,18 @@ namespace DemoArrays
 
             
 
-            string[] marque = new string[10];
-
+          
             
             string[] voiture = { "Volvo", "BMW", "Ford", "Mazda" };
-
-
             Console.WriteLine(voiture[0]);
+
+
+
+
+            string[] marque = new string[10];
+
+
+
             Console.WriteLine(voiture[1]);
             voiture[1] = "Opel";
 

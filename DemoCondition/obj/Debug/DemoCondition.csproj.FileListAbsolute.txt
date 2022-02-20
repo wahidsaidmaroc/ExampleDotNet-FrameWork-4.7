@@ -4,3 +4,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondit
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondition.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondition.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\bin\Debug\DemoCondition.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoCondition\obj\Debug\DemoCondition.pdb

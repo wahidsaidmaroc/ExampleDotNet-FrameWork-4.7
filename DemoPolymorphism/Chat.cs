@@ -15,14 +15,14 @@ namespace DemoPolymorphism
             Console.WriteLine("speed chat");
         }
 
-        public override void animalSound()
-        {
-            Console.WriteLine("MAW MAW");
-        }
+        //public override void animalSound()
+        //{
+        //    Console.WriteLine("MAW MAW");
+        //}
 
-        public override void typeAnimal()
-        {
-            throw new NotImplementedException();
-        }
+        //public override void typeAnimal()
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

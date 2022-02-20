@@ -5,3 +5,11 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.csprojAs
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\bin\Debug\DemoInt.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\bin\Debug\DemoInt.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\bin\Debug\DemoInt.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.csproj.AssemblyReference.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInt\obj\Debug\DemoInt.pdb

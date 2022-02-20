@@ -12,3 +12,11 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.cs
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\bin\Debug\DemoString.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\bin\Debug\DemoString.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\bin\Debug\DemoString.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.csproj.AssemblyReference.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoString\obj\Debug\DemoString.pdb

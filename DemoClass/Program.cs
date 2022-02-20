@@ -19,15 +19,17 @@ namespace DemoClass
 
 
             // Without Construrtor
+            
             var client = new Client();
             client.idClient = 1;
             client.dateCreation = DateTime.Now;
+            
 
             var bc = new BonCommande { idBC = 1, nBC = 0001, client = client };
-            bc.client.Details(6);
+            //bc.client.Details(6);
 
             client.Create();
-            client.Details(1);
+            //client.Details(1);
 
 
             //With Constructor

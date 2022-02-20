@@ -4,3 +4,8 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoCla
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoClassLibrary.dll
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoClassLibrary.pdb
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoClassLibrary.csprojAssemblyReference.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClassLibrary\bin\Debug\DemoClassLibrary.dll
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClassLibrary\bin\Debug\DemoClassLibrary.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoClassLibrary.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoClassLibrary.dll
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClassLibrary\obj\Debug\DemoClassLibrary.pdb

@@ -14,11 +14,19 @@ namespace DemoList
 
             #region "Collection liste Simple"
 
+            #region "Exemple List"
             List<string> vs = new List<string>()
-            { "Said", "Omar"};
+            { "Said", "Omar", DateTime.Now.ToString()};
 
             vs.Add("Kaoutar");
             vs.Add(null);
+
+            foreach (string item in vs)
+            {
+                Console.WriteLine(item);
+            }
+
+            #endregion
 
             //Ajouter arrayList.
             string[] etudiantM = new string[3] { "Sofian", "Amal", "Ayoub" };
@@ -52,9 +60,17 @@ namespace DemoList
 
             };
 
+            var e1 = new Etudiant();
+            e1.id = 6;
+            e1.prenom = "Saad";
+            e1.note = 15;
+            listeEtudiant.Add(e1);
+
+            )
+
             //Order by name
             Console.WriteLine("------------------ Order by name :");
-            foreach (var item in listeEtudiant.OrderBy(a => a.prenom))
+            foreach (var item in listeEtudiant.OrderBy(a => a.note))
             {
                 Console.WriteLine(item.prenom);
             }
@@ -68,7 +84,6 @@ namespace DemoList
             }
 
 
-            
 
 
             Console.ReadKey();

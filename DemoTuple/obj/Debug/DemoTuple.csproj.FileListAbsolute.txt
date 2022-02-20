@@ -1,0 +1,7 @@
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\bin\Debug\DemoTuple.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\bin\Debug\DemoTuple.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\bin\Debug\DemoTuple.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\obj\Debug\DemoTuple.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\obj\Debug\DemoTuple.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\obj\Debug\DemoTuple.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoTuple\obj\Debug\DemoTuple.pdb

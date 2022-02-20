@@ -36,7 +36,7 @@ namespace DemoGeneric
         class fournisseur
         {
             public int id { get; set; }
-            public string fournisseur { get; set; }
+            public string fournisseurNom { get; set; }
         }
     }
 }

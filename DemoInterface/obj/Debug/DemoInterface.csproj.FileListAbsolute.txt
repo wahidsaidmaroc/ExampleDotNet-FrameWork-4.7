@@ -1,0 +1,7 @@
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\bin\Debug\DemoInterface.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\bin\Debug\DemoInterface.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\bin\Debug\DemoInterface.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\obj\Debug\DemoInterface.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\obj\Debug\DemoInterface.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\obj\Debug\DemoInterface.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoInterface\obj\Debug\DemoInterface.pdb

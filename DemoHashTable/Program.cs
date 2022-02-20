@@ -17,8 +17,7 @@ namespace DemoHashTable
 
             hashtable.Add(0, "Said");
             hashtable.Add(1, "wahid");
-
-
+            
             foreach (DictionaryEntry item in hashtable)
             {
                 Console.WriteLine("Clé : {0} , Valeur : {1}", item.Key, item.Value);

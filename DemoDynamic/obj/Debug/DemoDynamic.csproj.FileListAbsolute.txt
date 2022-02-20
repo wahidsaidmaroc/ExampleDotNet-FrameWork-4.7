@@ -5,3 +5,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\bin\Debug\DemoDynamic.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\bin\Debug\DemoDynamic.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\bin\Debug\DemoDynamic.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoDynamic\obj\Debug\DemoDynamic.pdb

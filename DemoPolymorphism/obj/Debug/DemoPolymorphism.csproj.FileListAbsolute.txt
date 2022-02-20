@@ -5,3 +5,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPol
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\obj\Debug\DemoPolymorphism.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\bin\Debug\DemoPolymorphism.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\bin\Debug\DemoPolymorphism.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoPolymorphism\bin\Debug\DemoPolymorphism.pdb

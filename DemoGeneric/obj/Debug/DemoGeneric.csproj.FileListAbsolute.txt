@@ -1,0 +1,2 @@
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoGeneric\obj\Debug\DemoGeneric.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoGeneric\obj\Debug\DemoGeneric.csproj.CoreCompileInputs.cache

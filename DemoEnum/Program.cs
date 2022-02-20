@@ -17,9 +17,11 @@ namespace DemoEnum
 
             //use with Class:
             var s = new studant();
-            s.level = niveau.Medium;
+            s.level = niveau.High;
+            s.typeS = typePersonne.homme;
             s.months = mois.March;
 
+           
 
             //if
             if (s.level == niveau.Low)
@@ -48,6 +50,10 @@ namespace DemoEnum
 
     class studant
     {
+        public int id { get; set; }
+        public string nom { get; set; }
+        public string prenom { get; set; }
+        public typePersonne typeS { get; set; }
         public niveau level { get; set; }
         public mois months { get; set; }
     }

@@ -4,3 +4,7 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\bin\Debug\DemoMethod.pd
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoMethod\obj\Debug\DemoMethod.pdb

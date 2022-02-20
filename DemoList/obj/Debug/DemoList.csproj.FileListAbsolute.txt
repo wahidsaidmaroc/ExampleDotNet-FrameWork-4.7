@@ -5,3 +5,11 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.csproj
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.pdb
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.csprojAssemblyReference.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\bin\Debug\DemoList.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\bin\Debug\DemoList.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\bin\Debug\DemoList.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoList\obj\Debug\DemoList.csproj.AssemblyReference.cache

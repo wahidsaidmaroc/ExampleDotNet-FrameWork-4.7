@@ -22,7 +22,8 @@ namespace DemoArrayList
 
 
             //Or 
-            var listIni = new ArrayList() { 3, "Maroc", true, null, "Message d'erreur" };
+            var listIni = new ArrayList() 
+            { 3, "Maroc", true, null, "Message d'erreur",DateTime.Now };
 
 
             //Accessing Element of ArrayList

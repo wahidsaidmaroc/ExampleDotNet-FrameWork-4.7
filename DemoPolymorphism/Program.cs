@@ -13,7 +13,7 @@ namespace DemoPolymorphism
 
             Animal a = new Chat();
             a.speed();
-            a.animalSound();
+            //a.animalSound();
 
             Chat c = new Chat();
             c.speed();

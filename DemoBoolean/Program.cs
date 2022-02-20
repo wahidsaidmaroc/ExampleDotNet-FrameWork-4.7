@@ -12,8 +12,7 @@ namespace DemoBoolean
             int b = 24;
 
             Console.WriteLine(a < b);
-
-            Console.Write(a == b);
+            Console.WriteLine(a == b);
 
 
             Console.ReadKey();

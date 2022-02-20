@@ -1,0 +1,7 @@
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\bin\Debug\DemoEnum.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\bin\Debug\DemoEnum.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\bin\Debug\DemoEnum.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\obj\Debug\DemoEnum.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\obj\Debug\DemoEnum.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\obj\Debug\DemoEnum.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoEnum\obj\Debug\DemoEnum.pdb

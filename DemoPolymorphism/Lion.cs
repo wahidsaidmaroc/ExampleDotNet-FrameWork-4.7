@@ -8,15 +8,16 @@ namespace DemoPolymorphism
 {
     class Lion : Animal
     {
-        public override void animalSound()
-        {
+        //public override void animalSound()
+        //{
             
-        }
+        //}
 
         public override void speed()
         {
             Console.WriteLine("speed lion");
             base.speed();
+            
         }
 
 

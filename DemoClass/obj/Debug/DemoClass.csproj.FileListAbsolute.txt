@@ -8,3 +8,14 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.cspr
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.CopyComplete
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClass.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClass.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClass.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClassLibrary.dll
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\bin\Debug\DemoClassLibrary.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.AssemblyReference.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.csproj.CopyComplete
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoClass\obj\Debug\DemoClass.pdb

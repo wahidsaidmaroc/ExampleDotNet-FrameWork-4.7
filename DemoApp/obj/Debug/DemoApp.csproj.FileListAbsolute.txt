@@ -1,0 +1,11 @@
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\bin\Debug\DemoApp.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\bin\Debug\DemoApp.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\bin\Debug\DemoApp.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\bin\Debug\DemoClassLibrary.dll
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\bin\Debug\DemoClassLibrary.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\obj\Debug\DemoApp.csproj.AssemblyReference.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\obj\Debug\DemoApp.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\obj\Debug\DemoApp.csproj.CopyComplete
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\obj\Debug\DemoApp.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoApp\obj\Debug\DemoApp.pdb

@@ -4,3 +4,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSorte
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSortedList.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSortedList.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\bin\Debug\DemoSortedList.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoSortedList\obj\Debug\DemoSortedList.pdb

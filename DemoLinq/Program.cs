@@ -11,9 +11,9 @@ namespace DemoLinq
     {
         static void Main(string[] args)
         {
-            //EtudiantNote(17);
+            EtudiantNote(17);
             EtudiantEntrevalle(14, 18);
-            //GetInfo(2);
+            GetInfo(2);
             //EtudiantGroupBy();
 
             Console.ReadKey();
@@ -30,12 +30,12 @@ namespace DemoLinq
         {
             var list = new List<Etudiant>()
             {
-                new Etudiant() { id = 1, nom = "Omar", note = 18 , ville = "Meknes"},
-                new Etudiant() { id = 2, nom = "Soufian", note = 16, ville ="Casa" },
-                new Etudiant() { id = 3, nom = "KHALID", note = 17 , ville =  "Rabat"},
-                new Etudiant() { id = 4, nom = "Ibtissam", note = 14 , ville = "Mohmadia"},
-                new Etudiant() { id = 5, nom = "Said", note = 11 , ville = "Berrchid" },
-                new Etudiant() { id = 6, nom = "Amal", note = 17 , ville = "Rabat"},
+                new Etudiant() { id = 1, nom = "Haroun", note = 18 , ville = "Meknes"},
+                new Etudiant() { id = 2, nom = "Abdelahe", note = 20, ville ="Casa" },
+                new Etudiant() { id = 3, nom = "Kaoutar", note = 17 , ville =  "Rabat"},
+                new Etudiant() { id = 4, nom = "Hamza", note = 14 , ville = "Mohmadia"},
+                new Etudiant() { id = 5, nom = "Said", note = 10 , ville = "Berrchid" },
+                new Etudiant() { id = 6, nom = "Amine", note = 17 , ville = "Rabat"},
                 new Etudiant() { id = 7, nom = "Ahmed", note = 9 , ville = "Casa"},
             };
             return list;
@@ -46,16 +46,20 @@ namespace DemoLinq
         static void EtudiantNote(int note)
         {
             //Linq Query
-            var l1 = from l in getList()
+            var resulte = from l in getList()
                      where l.note == note
                      select l;
 
-            foreach (var item in l1)
+            foreach (var item in resulte)
             {
                 Console.WriteLine(item.nom);
             }
 
             var linqMethode = getList().Where(a => a.note == note).ToList();
+            foreach (var item in linqMethode)
+            {
+                Console.WriteLine(item.nom);
+            }
         }
 
         static void EtudiantNoteNom(int note)

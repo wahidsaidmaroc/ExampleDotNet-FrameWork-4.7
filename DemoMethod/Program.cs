@@ -117,7 +117,7 @@ namespace DemoMethod
 
         static float methodOverLoad(double x)
         {
-            return x;
+            return float.Parse(x.ToString());
         }
 
         static bool methodOverLoad(bool x, string text)

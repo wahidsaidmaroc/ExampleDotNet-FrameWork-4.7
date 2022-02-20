@@ -5,3 +5,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.cs
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\bin\Debug\DemoArrays.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\bin\Debug\DemoArrays.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\bin\Debug\DemoArrays.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoArrays\obj\Debug\DemoArrays.pdb

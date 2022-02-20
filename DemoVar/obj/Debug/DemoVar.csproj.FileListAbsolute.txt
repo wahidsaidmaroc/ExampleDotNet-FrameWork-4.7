@@ -5,3 +5,10 @@ C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.csprojAs
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.csproj.CoreCompileInputs.cache
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.exe
 C:\DevSpe\DemoDotNet\DemoDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\bin\Debug\DemoVar.exe.config
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\bin\Debug\DemoVar.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\bin\Debug\DemoVar.pdb
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.csproj.CoreCompileInputs.cache
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.exe
+C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoVar\obj\Debug\DemoVar.pdb

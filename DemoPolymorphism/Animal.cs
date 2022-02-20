@@ -9,8 +9,8 @@ namespace DemoPolymorphism
     abstract class Animal
     {
 
-        public abstract void animalSound();
-        public abstract void typeAnimal();
+        //public abstract void animalSound();
+        //public abstract void typeAnimal();
 
         public void taille()
         {
@@ -21,10 +21,7 @@ namespace DemoPolymorphism
 
 
         public virtual void speed()
-        {
-            
-            Console.WriteLine("speed animal");
-        }
+        {Console.WriteLine("speed animal");}
 
 
     }
