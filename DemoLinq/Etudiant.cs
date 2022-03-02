@@ -12,6 +12,7 @@ namespace DemoLinq
         public string nom { get; set; }
         public int note { get; set; }
         public string ville { get; set; }
+        public int _idGroup { get; set; }
     }
 
 

@@ -15,6 +15,15 @@ namespace DemoList
             #region "Collection liste Simple"
 
             #region "Exemple List"
+
+            List<int> listeInt = new List<int>()
+            {12, 11,14};
+
+            listeInt.Add(1);
+            listeInt.Insert(0, 4);
+
+
+
             List<string> vs = new List<string>()
             { "Said", "Omar", DateTime.Now.ToString()};
 
@@ -31,10 +40,14 @@ namespace DemoList
             //Ajouter arrayList.
             string[] etudiantM = new string[3] { "Sofian", "Amal", "Ayoub" };
             vs.AddRange(etudiantM);
+            vs.Insert(4, "Khalid");
+
 
             //Ajouter Liste
             var etudiantL = new List<string>() { "Gillbert", "Ibetissam" };
             vs.AddRange(etudiantL);
+
+       
 
 
             //Using simple foreach
@@ -64,13 +77,14 @@ namespace DemoList
             e1.id = 6;
             e1.prenom = "Saad";
             e1.note = 15;
+
             listeEtudiant.Add(e1);
 
-            )
+            
 
             //Order by name
             Console.WriteLine("------------------ Order by name :");
-            foreach (var item in listeEtudiant.OrderBy(a => a.note))
+            foreach (var item in listeEtudiant.OrderBy(a => a.nom))
             {
                 Console.WriteLine(item.prenom);
             }

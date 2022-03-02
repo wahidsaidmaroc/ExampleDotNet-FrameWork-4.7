@@ -29,7 +29,7 @@ namespace DemoArrays
             Console.WriteLine(voiture[1]);
             voiture[1] = "Opel";
 
-            Console.WriteLine(voiture[1]);
+            Console.WriteLine(voiture[2]);
             Console.WriteLine(voiture.Length);
 
 

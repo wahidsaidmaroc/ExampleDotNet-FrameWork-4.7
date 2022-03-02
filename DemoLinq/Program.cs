@@ -11,12 +11,12 @@ namespace DemoLinq
     {
         static void Main(string[] args)
         {
-            EtudiantNote(17);
-            EtudiantEntrevalle(14, 18);
-            GetInfo(2);
+            //EtudiantNote(17);
+            //EtudiantEntrevalle(14, 18);
+            //GetInfo(2);
             //EtudiantGroupBy();
-
-            Console.ReadKey();
+            groupByJointure();
+            Console.ReadLine();
 
         }
 
@@ -30,17 +30,28 @@ namespace DemoLinq
         {
             var list = new List<Etudiant>()
             {
-                new Etudiant() { id = 1, nom = "Haroun", note = 18 , ville = "Meknes"},
-                new Etudiant() { id = 2, nom = "Abdelahe", note = 20, ville ="Casa" },
-                new Etudiant() { id = 3, nom = "Kaoutar", note = 17 , ville =  "Rabat"},
-                new Etudiant() { id = 4, nom = "Hamza", note = 14 , ville = "Mohmadia"},
-                new Etudiant() { id = 5, nom = "Said", note = 10 , ville = "Berrchid" },
-                new Etudiant() { id = 6, nom = "Amine", note = 17 , ville = "Rabat"},
-                new Etudiant() { id = 7, nom = "Ahmed", note = 9 , ville = "Casa"},
+                new Etudiant() { id = 1, nom = "Haroun", note = 18 , ville = "Meknes", _idGroup = 1},
+                new Etudiant() { id = 2, nom = "Abdelahe", note = 20, ville ="Casa" , _idGroup = 2},
+                new Etudiant() { id = 3, nom = "Kaoutar", note = 17 , ville =  "Rabat", _idGroup = 3},
+                new Etudiant() { id = 4, nom = "Hamza", note = 14 , ville = "Mohmadia", _idGroup = 2},
+                new Etudiant() { id = 5, nom = "Said", note = 10 , ville = "Berrchid", _idGroup = 3 },
+                new Etudiant() { id = 6, nom = "Amine", note = 17 , ville = "Rabat", _idGroup = 1},
+                new Etudiant() { id = 7, nom = "Ahmed", note = 9 , ville = "Casa", _idGroup = 4},
             };
             return list;
         }
 
+        static List<GroupEtudiant> getGroup()
+        {
+            var list = new List<GroupEtudiant>()
+            {
+                new GroupEtudiant() { id = 1, groupe = "LICDA"},
+                new GroupEtudiant() { id = 2, groupe = "MIAGE" },
+                new GroupEtudiant() { id = 3, groupe = "Big Data"},
+                new GroupEtudiant() { id = 4, groupe = "ISRI"}
+            };
+            return list;
+        }
 
 
         static void EtudiantNote(int note)
@@ -102,6 +113,21 @@ namespace DemoLinq
                 Console.WriteLine(item.nom);
             }
 
+
+        }
+
+
+        static void groupByJointure()
+        {
+            var list = from g in getGroup()
+                       join e in getList()
+                       on g.id equals e._idGroup
+                       select new { nomPersonne = e.nom, gr = g.groupe };
+
+            foreach (var item in list)
+            {
+                Console.WriteLine("Nom : {0}        - Group {1} ", item.nomPersonne, item.gr);
+            }
 
         }
 
@@ -186,7 +212,7 @@ namespace DemoLinq
             //Linq syntax Query 
             var l1 = from l in getList()
                      where IsIntervalle(l)
-                     orderby l.note
+                     orderby l.note descending
                      orderby l.nom descending
                      select l;
 

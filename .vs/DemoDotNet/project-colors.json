@@ -80,7 +80,42 @@
       "ProjectGuid": "51c6255a-c36d-4472-b952-eb6d8908e284",
       "DisplayName": "DemoInterface",
       "ColorIndex": 15
+    },
+    "c8bdcc96-d4e8-4b0d-a764-30716a16a013": {
+      "ProjectGuid": "c8bdcc96-d4e8-4b0d-a764-30716a16a013",
+      "DisplayName": "DemoStack",
+      "ColorIndex": 0
+    },
+    "6c29481c-a16a-4393-8dc5-12a06ef357fd": {
+      "ProjectGuid": "6c29481c-a16a-4393-8dc5-12a06ef357fd",
+      "DisplayName": "DemoEnum",
+      "ColorIndex": 1
+    },
+    "d81c7d32-279a-4324-8592-277b03670b8e": {
+      "ProjectGuid": "d81c7d32-279a-4324-8592-277b03670b8e",
+      "DisplayName": "DemoStruct",
+      "ColorIndex": 2
+    },
+    "a6795678-a164-4a8a-9da5-1a2365e14a71": {
+      "ProjectGuid": "a6795678-a164-4a8a-9da5-1a2365e14a71",
+      "DisplayName": "DemoTuple",
+      "ColorIndex": 3
+    },
+    "476a0351-1f0e-433e-9e77-123dd623e742": {
+      "ProjectGuid": "476a0351-1f0e-433e-9e77-123dd623e742",
+      "DisplayName": "DemoApp",
+      "ColorIndex": 4
+    },
+    "53f82d6d-9c59-41c5-ab46-a03128073255": {
+      "ProjectGuid": "53f82d6d-9c59-41c5-ab46-a03128073255",
+      "DisplayName": "DemoClassLibrary",
+      "ColorIndex": 5
+    },
+    "e46745c5-c408-44ca-85f3-0db5ff0da5c8": {
+      "ProjectGuid": "e46745c5-c408-44ca-85f3-0db5ff0da5c8",
+      "DisplayName": "DemoMethod",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 7
 }
