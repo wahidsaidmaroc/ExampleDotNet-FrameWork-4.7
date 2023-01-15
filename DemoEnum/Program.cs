@@ -17,11 +17,12 @@ namespace DemoEnum
 
             //use with Class:
             var s = new studant();
-            s.level = niveau.High;
+            s.prenom = "Said";
+            s.level = niveau.Low;
             s.typeS = typePersonne.homme;
             s.months = mois.March;
 
-           
+            int a = (int)niveau.High;
 
             //if
             if (s.level == niveau.Low)

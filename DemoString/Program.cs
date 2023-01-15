@@ -22,7 +22,7 @@ namespace DemoString
             #region "Exemple '\' "
 
             string urlType = @"http://wwww.google.com";
-            string pathNew = @"c:\rossier\naid";
+            string pathNew = "c:\\rossier\\naid";
             string pathOld = @"c:\rossier\naid";
             Console.WriteLine(pathOld);
 

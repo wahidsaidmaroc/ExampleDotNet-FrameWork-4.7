@@ -19,8 +19,9 @@ namespace DemoGeneric
         static void Main(string[] args)
         {
 
-            var client = new Action<string, string>();
+            var client = new Action<string, bool>();
             client.GetT = "Said";
+            client.GetV = 12;
 
 
             var intData = new Action<int, string>();

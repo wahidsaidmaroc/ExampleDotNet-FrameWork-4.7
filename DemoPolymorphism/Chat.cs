@@ -11,8 +11,9 @@ namespace DemoPolymorphism
 
         public override void speed()
         {
+            Console.WriteLine("1 speed chat");
             base.speed();
-            Console.WriteLine("speed chat");
+            Console.WriteLine("2 speed chat");
         }
 
         //public override void animalSound()

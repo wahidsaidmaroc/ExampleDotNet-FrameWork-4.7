@@ -13,3 +13,11 @@ C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.csproj.Suggest
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.csproj.CoreCompileInputs.cache
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.exe
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\bin\Debug\DemoLinq.exe.config
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\bin\Debug\DemoLinq.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\bin\Debug\DemoLinq.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.csproj.AssemblyReference.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.csproj.CoreCompileInputs.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoLinq\obj\Debug\DemoLinq.pdb

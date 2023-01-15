@@ -11,7 +11,7 @@ namespace DemoTuple
         static void Main(string[] args)
         {
             //Simple Declaration 
-            Tuple<int, string, string> message = new Tuple<int, string, string>(1, "Said", "wahid");
+            Tuple<int, string, string, DateTime> message = new Tuple<int, string, string, DateTime>(1, "Said", "wahid", DateTime.Now);
             Console.WriteLine(message.Item1);
 
             //

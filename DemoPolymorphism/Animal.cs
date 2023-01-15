@@ -18,10 +18,10 @@ namespace DemoPolymorphism
             Console.WriteLine("Taille animale");
         }
 
-
-
         public virtual void speed()
-        {Console.WriteLine("speed animal");}
+        {
+            Console.WriteLine("speed animal");
+        }
 
 
     }
