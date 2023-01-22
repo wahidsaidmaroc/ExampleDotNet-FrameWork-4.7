@@ -12,3 +12,11 @@ C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.cspr
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.csproj.CoreCompileInputs.cache
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.exe
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\bin\Debug\DemoHashTable.exe.config
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\bin\Debug\DemoHashTable.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\bin\Debug\DemoHashTable.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.csproj.AssemblyReference.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.csproj.CoreCompileInputs.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoHashTable\obj\Debug\DemoHashTable.pdb

@@ -17,7 +17,8 @@ namespace DemoHashTable
 
             hashtable.Add(0, "Said");
             hashtable.Add(1, "wahid");
-            
+            //hashtable.Add(1, "wahid");
+
             foreach (DictionaryEntry item in hashtable)
             {
                 Console.WriteLine("Clé : {0} , Valeur : {1}", item.Key, item.Value);
@@ -31,7 +32,7 @@ namespace DemoHashTable
             Hashtable ht = new Hashtable();
  
             ht.Add("0", "Client 1");
-            ht.Add("1", "Client 2");
+            ht.Add(0, "Client 2");
             ht.Add("2", "Client 3");
 
             ICollection cleHT = ht.Keys;

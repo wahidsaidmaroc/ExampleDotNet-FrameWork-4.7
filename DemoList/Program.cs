@@ -20,13 +20,13 @@ namespace DemoList
             {12, 11,14};
 
             listeInt.Add(1);
+            listeInt.Add(3);
             listeInt.Insert(0, 4);
 
-
+            listeInt.Clear();
 
             List<string> vs = new List<string>()
             { "Said", "Omar", DateTime.Now.ToString()};
-
             vs.Add("Kaoutar");
             vs.Add(null);
 
@@ -44,7 +44,8 @@ namespace DemoList
 
 
             //Ajouter Liste
-            var etudiantL = new List<string>() { "Gillbert", "Ibetissam" };
+            var etudiantL = new List<string>() 
+            { "Gillbert", "Ibetissam" };
             vs.AddRange(etudiantL);
 
        
@@ -72,6 +73,18 @@ namespace DemoList
                 new Etudiant(){id= 5, prenom = "Said", note = 11},
 
             };
+            //Update by index
+            listeEtudiant[0].note = 12;
+
+            //Update by object
+            var e2 = new Etudiant();
+            e2.id = 1;
+            listeEtudiant.Contains(e2);
+            
+
+            //Update by linq
+            var etudiantForUpdate = listeEtudiant.Where(a=> a.prenom == "Said").FirstOrDefault();    
+
 
             var e1 = new Etudiant();
             e1.id = 6;
@@ -79,7 +92,7 @@ namespace DemoList
             e1.note = 15;
 
             listeEtudiant.Add(e1);
-
+            //e1.prenom = 
             
 
             //Order by name

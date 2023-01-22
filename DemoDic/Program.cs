@@ -10,14 +10,12 @@ namespace DemoDic
     {
         static void Main(string[] args)
         {
-            Dictionary<int, string> keyValuePairs = new Dictionary<int, string>();
+            var keyValuePairs = new Dictionary<int, string>();
             keyValuePairs.Add(1, "Casablanca");
             keyValuePairs.Add(2, "Rabat");
+ 
 
-            keyValuePairs.Add(1, "Fes");
-
-
-            foreach (KeyValuePair<int, string> item in keyValuePairs)
+            foreach (var item in keyValuePairs)
             {
                 Console.Write("Clé : {0}", item.Key, item.Value);
             }
@@ -26,13 +24,16 @@ namespace DemoDic
             var listeVille = new Dictionary<string, string>();
 
             listeVille.Add("MA", "Casa, Fes, Rabat");
+            listeVille.Add("ma", "Casa, Fes, Rabat");
+            listeVille.Add("FR", "Paris , nante");
 
             IDictionary<int, string> numberNames = new Dictionary<int, string>();
             numberNames.Add(1, "Un"); //adding a key/value using the Add() method
             numberNames.Add(2, "Deux");
             numberNames.Add(3, "Cinq");
 
-            //The following throws run-time exception: key already added.
+            //The following throws run-time exception:
+            //key already added.
             //numberNames.Add(3, "Three"); 
 
             foreach (KeyValuePair<int, string> kvp in numberNames)

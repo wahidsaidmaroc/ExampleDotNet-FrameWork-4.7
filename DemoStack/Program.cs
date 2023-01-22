@@ -11,10 +11,12 @@ namespace DemoStack
         static void Main(string[] args)
         {
 
-            Stack stack = new Stack();
-            stack.Push("Kaoutar");
-            stack.Push("khalid");
-            stack.Push("Ayoub");
+            var stack = new Stack();
+            stack.Push("1 Kaoutar");
+            stack.Push("2 khalid");
+            stack.Push("3 Ayoub");
+            stack.Push("4 Adam");
+            stack.Push("5 Zouhair");
 
             foreach (var item in stack)
             {
@@ -34,6 +36,8 @@ namespace DemoStack
 
 
             stack.Peek();
+
+            
 
             Console.ReadKey();
 

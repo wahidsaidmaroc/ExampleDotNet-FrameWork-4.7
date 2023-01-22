@@ -13,3 +13,11 @@ C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csproj.Sugge
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csproj.CoreCompileInputs.cache
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.exe
 C:\DevOps\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\bin\Debug\DemoStack.exe.config
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\bin\Debug\DemoStack.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\bin\Debug\DemoStack.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csproj.AssemblyReference.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.csproj.CoreCompileInputs.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoStack\obj\Debug\DemoStack.pdb

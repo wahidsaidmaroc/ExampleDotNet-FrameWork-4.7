@@ -1,0 +1,8 @@
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\bin\Debug\DemoDic.exe.config
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\bin\Debug\DemoDic.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\bin\Debug\DemoDic.pdb
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\obj\Debug\DemoDic.csproj.AssemblyReference.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\obj\Debug\DemoDic.csproj.SuggestedBindingRedirects.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\obj\Debug\DemoDic.csproj.CoreCompileInputs.cache
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\obj\Debug\DemoDic.exe
+C:\DevOps\Demo GitHub\ExampleDotNet-FrameWork-4.7\DemoDic\obj\Debug\DemoDic.pdb
